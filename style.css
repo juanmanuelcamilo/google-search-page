@@ -1,0 +1,201 @@
+html {
+    font-family: arial, sans-serif,;
+}
+
+body {
+    margin: 0;
+    background: #fff;
+    color: #222;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+    color: #5f6368;
+}
+
+.formulario {
+    position: absolute;
+    top: 20px;
+    width: 100%;
+    display: flex;
+}
+
+.imagen-google {
+    margin-left: 25px;
+    margin-top: 5px;
+}
+
+.barra-buscador {
+    margin-left: 50px;
+}
+
+.buscador {
+    display: flex;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    padding: 10px;
+    box-shadow: none;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.sesion {
+    display: flex;
+    margin-left: 300px;
+}
+
+.iniciar-sesion {
+    cursor: pointer;
+    background: #2b7de9;
+    color: #fff;
+    box-shadow: 0 1px 2px 0 rgba(66,133,244,0.3),0 1px 3px 1px rgba(66,133,244,0.15);
+    margin-left: 8px;
+    border: 1px solid transparent;
+    font-family: Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: .25px;
+    line-height: 16px;
+    margin-right: 38px;
+    min-width: 96px;
+    padding: 9px 23px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.app {
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.top-nav {
+    margin-top: 80px;
+    margin-left: 170px;
+}
+
+.nav {
+    display: flex;
+    margin: 10px;
+    line-height: 16px;
+    font-size: 13px
+}
+
+.todos {
+    border-bottom: 3px solid #1a73e8;
+    color: #1a73e8 !important;
+}
+
+.maps, .videos, .mas, .herramientas {
+    padding: 0 25px;
+}
+
+.cuerpo {
+    margin-left: 180px;
+}
+
+.cantidad-resultados {
+    line-height: 43px;
+    white-space: nowrap;
+    color: #70757a;
+}
+
+.anuncio-wix {
+    margin-top: 15px;
+    cursor: pointer;
+    line-height: 1.58;
+}
+
+.titulo-wix {
+    margin-top: 10px;
+    font-size: 20px;
+    line-height: 26px;
+    cursor: pointer;
+    color: #1a0dab;
+}
+
+.parrafo-wix {
+    color: #4d5156;
+    font-size: 14px;
+    line-height: 1.58;
+    width: 50%;
+}
+
+.wordpress {
+    border: 1px solid #dfe1e5;
+    width: 50%;
+    margin-top: 30px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    border-radius: 8px;
+}
+
+.parrafo-wordpress {
+    padding: 0 8px 0 0;
+    font-size: 16px;
+    line-height: 1.375;
+    text-align: left;
+    font-weight: normal;
+}
+
+.link-wordpress {
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1.3;
+}
+
+.aclarar-letra {
+    color: #5f6368;
+}
+
+.titulo-wordpress {
+    font-size: 20px;
+    line-height: 1.3;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    color: #1a0dab;
+    cursor: pointer;
+}
+
+.subtitulo-wordpress {
+    margin-top: 5px;
+    margin-left: 270px;
+    color: #70757a;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 12px;
+    line-height: 1.34;
+    padding-bottom: 4px;
+}
+
+.comentario {
+    padding-left: 15px;
+}
+
+.github {
+    margin-top: 25px;
+}
+
+.traduccion-github {
+    cursor: pointer;
+    color: #1a0dab;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.titulo-github {
+    margin-top: 10px;
+    font-size: 20px;
+    line-height: 26px;
+    cursor: pointer;
+    color: #1a0dab;
+}
